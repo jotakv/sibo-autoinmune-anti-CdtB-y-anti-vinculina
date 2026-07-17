@@ -8,7 +8,7 @@ Instituto De Microecología C/ Perfumería 21 nave 2 28770  Colmenar Viejo MADRI
 
 Nº de muestra: Paciente: 
 
-21/H/536690 Fecha de dictamen: Kevin Joel Valdivieso Fecha nacimiento / Sexo: 26.03.1995 / H Ordóñez 
+21/H/536690 Fecha de dictamen: Kevin Fecha nacimiento / Sexo: 26.03.1995 / 
 
 
 
