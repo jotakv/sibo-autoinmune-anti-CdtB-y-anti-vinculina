@@ -4,7 +4,7 @@
 
 ## 1) Datos generales
 
-**Paciente:** Kevin Joel Valdivieso Ordóñez
+**Paciente:** Kevin 
 **Sexo:** masculino
 **Altura/peso actual:** 172 cm / 63 kg
 **Objetivo principal actual:** reducir reflujo ácido/LPR y ojo seco asociado.
